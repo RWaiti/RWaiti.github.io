@@ -22,8 +22,8 @@ subtitle                 : "teste 2" # site tagline that appears below site titl
 name                     : "Rafael Waiti Umetsu"
 description              : "Universitário em Ciência da Computação."
 url                      : "https://rwaiti.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : /materias # the subpath of your site, e.g. "/blog"
+repository               : "RWaiti/rwaiti.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/mountains.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "teste 1" # overrides the website title displayed in the masthead, use " " for no title

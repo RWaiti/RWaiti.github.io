@@ -23,7 +23,7 @@ name                     : "Rafael Waiti Umetsu"
 description              : "Universitário em Ciência da Computação."
 url                      : "https://rwaiti.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "RWaiti/rwaiti.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/mountains.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "teste 1" # overrides the website title displayed in the masthead, use " " for no title
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Rafael Waiti G. Umetsu"
-  avatar           : "https://instagram.fbsb3-1.fna.fbcdn.net/v/t51.2885-19/s320x320/225130072_561540494880518_8294319902252629962_n.jpg?_nc_ht=instagram.fbsb3-1.fna.fbcdn.net&_nc_ohc=_hp59d66WpkAX8obDh8&edm=ABfd0MgBAAAA&ccb=7-4&oh=63e8be09e27756d6a330106408949a3e&oe=6104FEE0&_nc_sid=7bff83"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://instagram.fbsb3-1.fna.fbcdn.net/v/t51.2885-19/s320x320/225130072_561540494880518_8294319902252629962_n.jpg?_nc_ht=instagram.fbsb3-1.fna.fbcdn.net&_nc_ohc=_hp59d66WpkAX8obDh8&edm=ABfd0MgBAAAA&ccb=7-4&oh=63e8be09e27756d6a330106408949a3e&oe=6104FEE0&_nc_sid=7bff83%22#%20path%20of%20avatar%20image,%20e.g.%20%22/assets/images/bio-photo.jpg"
   bio              : "I'm a University Student, trying to learning things and have my own space in the world"
   location         : "Brasília - Brasil"
   email            :

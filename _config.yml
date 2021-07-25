@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Rafael Waiti G. Umetsu"
-  avatar           : "https://instagram.fbsb3-1.fna.fbcdn.net/v/t51.2885-19/s320x320/225130072_561540494880518_8294319902252629962_n.jpg?_nc_ht=instagram.fbsb3-1.fna.fbcdn.net&_nc_ohc=_hp59d66WpkAX8obDh8&edm=ABfd0MgBAAAA&ccb=7-4&oh=63e8be09e27756d6a330106408949a3e&oe=6104FEE0&_nc_sid=7bff83%22#%20path%20of%20avatar%20image,%20e.g.%20%22/assets/images/bio-photo.jpg"
+  avatar           : "/assests/images/perfil.jpg"
   bio              : "I'm a University Student, trying to learning things and have my own space in the world"
   location         : "Brasília - Brasil"
   email            :

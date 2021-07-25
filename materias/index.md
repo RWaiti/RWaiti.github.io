@@ -2,4 +2,4 @@
 layout: single
 ---
 
-[Física para Computação](/fisica_computacao/)
+[Física para Computação](/materias/fisica-para-computacao/)

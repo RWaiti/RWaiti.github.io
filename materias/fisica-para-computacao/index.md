@@ -5,12 +5,18 @@ title: Portfólio de Física para Computação
 
 # Portfólio 1
 
-### Dipolo
- 
+### Dipolo Elétrico
+É representado por um par de cargas opostas, a uma distancia (d) e de mesmo modulo (q).
 
-### Curiosidade
+<img src="images/momento-de-dipolo-campo.png"  width=75% height=75%>
+
+retirado do link: [olimpedia](https://olimpedia.fandom.com/pt-br/wiki/Eletricidade) [^1]
+
+Existe também o momento dipolar de moléculas, o que são os causadores do comportamento dessa molécula a um campo elétrico externo.
+
+### Curiosidade:
 ###  O que acontece com a molécula de água no microondas?
-A água é uma molécula polar, o que quer dizer que quando colocada em um campo magnético tende a alinhar-se ao campo
+A água é uma molécula polar, possui momento dipolar elétrico, o que quer dizer que quando colocada em um campo magnético tende a alinhar-se ao campo
 
 ![Molécula no Microondas-1](/images/molecula1.gif)
 

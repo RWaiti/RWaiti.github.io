@@ -1,9 +1,10 @@
 ---
 layout: single
+title: Portfólio de Física para Computação
 ---
 
-# Portfólio de Física para Computação
 ## Rafael Waiti Gitirana umetsu
+
 O que acontece com a molécula de água no microondas?
 A água é uma molécula polar, o que quer dizer que quando colocada em um campo magnético tende a se mover para se alinhar ao campo e quando esse campo tende a variar, como no microondas, ela varia com o campo e juntos com esse movimentos as moléculas de água acabam também se raspando com as moléculas vizinhas transferindo energia e aumentando a agitação mais ainda, o que como resultado temos o que chamamos comumente de ficar  “quente”.
 Esse fenômeno é chamado de aquecimento dielétrico.

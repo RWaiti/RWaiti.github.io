@@ -1,1 +1,1 @@
-[Física para Computação](http://rwaiti.github.io/materias/fisica_computacao)
+[Física para Computação](/fisica_computacao/)

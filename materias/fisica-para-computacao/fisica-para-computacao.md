@@ -20,6 +20,8 @@ k = constante de Coulomb.
 
 Se as duas particulas tiverem sinais iguais ocorrerá repulsão, assim a força exercida em q1 terá o mesmo sentido que ȓ, então o produto q1q2 será positivo, mas se as cargas forem opostas e houver atração a força exercida em q1 terá o sentido inverso a ȓ, tendo o resultado do produto de q1q2 negativo.
 
+[youtube](https://www.youtube.com/watch?v=hpNTUkqW66U)
+
 Assim com o tempo foi decidido que teriamos a constante de Coulomb como k = 1/4πε₀, temos a constate de permissividade ε₀ = 8,85x10ˉ¹²C²/N·m² e teremos o modulo da força eletroestática pela lei de Coulomb como:
 
 ![Lei de Coulomb com valor de k](images/LeiDeCoulombNew.png)

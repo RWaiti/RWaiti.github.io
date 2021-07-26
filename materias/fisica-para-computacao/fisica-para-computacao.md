@@ -5,14 +5,39 @@ title: Portfólio de Física para Computação
 
 # Portfólio 1
 
-### Campo Elétrico
-d
-
-### Lei de Coloumb
+### Lei de Coulomb
 Se tivermos partículas carregadas elas exercem forças entre si, ou seja, se temos duas partículas carregadas elas podem causa uma atração ou repulsão uma pela outra. Essa atração ou repulsão é causada pela carga da partícula, se a carga possue sinais opostos existe atração, como se existe repulção com sinais iguais.
 
-A lei de Coloumb é a equação para cálculo dessa força exercida por uma partícula carregada uma pela outra, que é chamada de força eletroestática. Onde para duas partículas de cargas q1 e q2 respectivamente, temos que a força eletroestática em q1 se dá por.
+A lei de Coulomb é a equação para cálculo dessa força exercida por uma partícula carregada uma pela outra, que é chamada de força eletroestática. Onde para duas partículas de cargas q1 e q2 respectivamente, temos que a força eletroestática em q1 se dá por:
 
+![Lei de Coulomb](images/LeiDeCoulomb.png)
+
+ȓ = vetor unitário que demonstra direção e sentido.
+
+r = distancia entre as duas particulas.
+
+k = constante de Coulomb.
+
+Se as duas particulas tiverem sinais iguais ocorrerá repulsão, assim a força exercida em q1 terá o mesmo sentido que ȓ, então o produto q1q2 será positivo, mas se as cargas forem opostas e houver atração a força exercida em q1 terá o sentido inverso a ȓ, tendo o resultado do produto de q1q2 negativo.
+
+Assim com o tempo foi decidido que teriamos a constante de Coulomb como k = 1/4πε₀, temos a constate de permissividade ε₀ = 8,85x10ˉ¹²C²/N·m² e teremos o modulo da força eletroestática pela lei de Coulomb como:
+
+![Lei de Coulomb com valor de k](images/LeiDeCoulombNew.png)
+
+Exemplo:
+
+![Exercício 5 - Fisica 3 Eletromagnetismo - Halliday](images/ExemploCoulomb.png)
+
+
+### Carga Quantizada
+A carga elétrica é composta de unidades elementares, que podem ter a forma escrita como o produto q = n·e, onde:
+
+n = um número inteiro.
+
+e = é o menor valor carga elétrica na natureza, o valor da carga encontrado em protons e eletrons, que tem como modulo = 1,6x10ˉ¹⁹C.
+
+### Campo Elétrico
+d
 
 ### Dipolo Elétrico
 É representado por um par de cargas opostas, a uma distancia (d) e de mesmo modulo (q).

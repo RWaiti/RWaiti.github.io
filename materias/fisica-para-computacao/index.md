@@ -69,13 +69,11 @@ retirado do link: [Doce Limão](https://www.docelimao.com.br/site/tv-de-bem/2660
 <iframe
     width="640"
     height="480"
-    src="https://www.youtube.com/watch?v=kRoYdzPRiV8"
+    src="https://www.youtube.com/watch?v=kRoYdzPRiV8&embed_domain=rwaiti.github.io"
     frameborder="0"
-    allow="autoplay; encrypted-media"
     allowfullscreen
 >
 </iframe>
-
 
 ### O que é torque ?
 É uma grandeza vetorial, o qual, é a propensão de que uma força aplicada a um corpo tem de o rotacionar. Como na imagem a baixo, o vetor torque é o produto vetorial da distância ao eixo de rotação (r) e a força aplicada (F), vezes um sen θ, o angulo entre r e F.
